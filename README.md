@@ -21,11 +21,7 @@ For React.js Front end
 
 For Node.js Backend
 
-1. Server.js - performs a get request and recieves the the value from the url which we get from the frontend user input and then fetch a file from the url hosted at another link and read it.
-
-2. counter.js - performs a words counter operation where the function returns the frequency of the words in a descending order.
-
-3.App.js - imports that counter.js file and save it in a variable and use it as a component and display it on the frontend .
+3.App.js - imports that counter.js file and save it in a variable and use it as a component and display it on the frontend .performs a get request and recieves the the value from the url which we get from the frontend user input and then fetch a file from the url hosted at another link and read it.performs a words counter operation where the function returns the frequency of the words in a descending order.
 
 =================================================================================================================================================================================
 
